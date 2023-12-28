@@ -43,7 +43,8 @@ Top Five Web Development Frameworks
 </html>
 ```
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-28 133142.png>)
+![Screenshot 2023-12-28 133142](https://github.com/Bhuvana23013531/webserver/assets/147125678/80fe64d2-d7a0-4170-b52d-4daa0dc7653c)
+
 
 ## RESULT:
 The program is executed succesfully
