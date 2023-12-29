@@ -1,5 +1,7 @@
 # Developing a Simple Webserver
-
+NAME: BHUVANESHWARI M
+DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+REGISTER NO: 212223230033
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
