@@ -2,8 +2,6 @@
 
 NAME: BHUVANESHWARI M
 
-DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-
 REGISTER NO: 212223230033
 
 # AIM:
@@ -34,22 +32,27 @@ Testing the webserver
 
 ## PROGRAM:
 ```
+<!DOCTYPE html>
 <html>
 <head>
-Top Five Web Development Frameworks
+ <title>Using Python's SimpleHTTPServer Module</title>
+ <style>
+ #rectangle {
+ height: 50px;
+ width: 100px;
+ background-color: #00f28f;
+ }
+ </style>
 </head>
 <body>
-<h1>Welcome</h1>
-1. Diango
-<br>
-2.MEAN Stack
-<br>
-3.React
+ <h2>Rectangle served by SimpleHTTPServer</h2>
+ <div id="rectangle"></div>
 </body>
 </html>
 ```
 ## OUTPUT:
-![Screenshot 2023-12-28 133142](https://github.com/Bhuvana23013531/webserver/assets/147125678/80fe64d2-d7a0-4170-b52d-4daa0dc7653c)
+
+![Screenshot 2023-12-31 183331](https://github.com/Bhuvana23013531/webserver/assets/147125678/2f675d62-4363-4c39-8151-2abc81c7fe7b)
 
 
 ## RESULT:
